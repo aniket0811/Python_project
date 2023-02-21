@@ -39,6 +39,6 @@ class EvenOdd:
 
 eo = EvenOdd()
 eo.printEvenNumber(1, 10)
-eo.divisibleBy3and5(1, 20)
-eo.divideNumber(-22)
-eo.printHashColon(1, 10, "Aniket")
+# eo.divisibleBy3and5(1, 20)
+# eo.divideNumber(-22)
+# eo.printHashColon(1, 10, "Aniket")
